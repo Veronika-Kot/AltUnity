@@ -6,3 +6,279 @@ Version mismatch. You are using different versions of server and driver. Server 
 Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
 Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
 Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 2:30:09 AM:Logging is set to True
+08-17-2020 02:30:09 : response received : Ok
+8/17/2020 2:30:09 AM:LoadScene Menu
+08-17-2020 02:30:09 : response received : Ok
+Scene Loaded
+08-17-2020 02:30:09 : response received : Scene Loaded
+8/17/2020 2:30:09 AM:findObject for: //MenuUI/Panel/Menu;;true;
+08-17-2020 02:30:09 : response received : error:failedToParseMethodArguments
+8/17/2020 2:30:09 AM:findObject for: //MenuUI/Panel/Menu;;true;
+08-17-2020 02:30:09 : response received : error:failedToParseMethodArguments
+8/17/2020 2:30:10 AM:findObject for: //MenuUI/Panel/Menu;;true;
+08-17-2020 02:30:10 : response received : error:failedToParseMethodArguments
+8/17/2020 2:30:10 AM:findObject for: //MenuUI/Panel/Menu;;true;
+08-17-2020 02:30:10 : response received : error:failedToParseMethodArguments
+8/17/2020 2:34:06 AM:Logging is set to True
+08-17-2020 02:34:06 : response received : Ok
+8/17/2020 2:34:06 AM:LoadScene Menu
+08-17-2020 02:34:06 : response received : Ok
+Scene Loaded
+08-17-2020 02:34:06 : response received : Scene Loaded
+8/17/2020 2:34:06 AM:findObjects for: //Panel
+08-17-2020 02:34:06 : response received : error:failedToParseMethodArguments
+8/17/2020 2:35:02 AM:Logging is set to True
+08-17-2020 02:35:02 : response received : Ok
+8/17/2020 2:35:02 AM:LoadScene Menu
+08-17-2020 02:35:02 : response received : Ok
+Scene Loaded
+08-17-2020 02:35:02 : response received : Scene Loaded
+8/17/2020 2:35:03 AM:findObjects for: //MenuUI
+08-17-2020 02:35:03 : response received : error:failedToParseMethodArguments
+8/17/2020 2:35:52 AM:Logging is set to True
+08-17-2020 02:35:52 : response received : Ok
+8/17/2020 2:35:52 AM:LoadScene Menu
+08-17-2020 02:35:52 : response received : Ok
+Scene Loaded
+08-17-2020 02:35:52 : response received : Scene Loaded
+8/17/2020 2:35:52 AM:findObjects for: //MenuUI
+08-17-2020 02:35:52 : response received : error:failedToParseMethodArguments
+8/17/2020 2:37:51 AM:Logging is set to True
+08-17-2020 02:37:51 : response received : Ok
+8/17/2020 2:37:51 AM:LoadScene Menu
+08-17-2020 02:37:51 : response received : Ok
+Scene Loaded
+08-17-2020 02:37:51 : response received : Scene Loaded
+8/17/2020 2:37:52 AM:findObjects for: //*
+08-17-2020 02:37:52 : response received : error:failedToParseMethodArguments
+8/17/2020 2:50:28 AM:Logging is set to True
+08-17-2020 02:50:28 : response received : Ok
+8/17/2020 2:50:28 AM:LoadScene Menu
+08-17-2020 02:50:28 : response received : Ok
+Scene Loaded
+08-17-2020 02:50:28 : response received : Scene Loaded
+8/17/2020 2:50:29 AM:findObjects for: //*
+08-17-2020 02:50:29 : response received : error:failedToParseMethodArguments
+8/17/2020 2:55:14 AM:Logging is set to True
+08-17-2020 02:55:14 : response received : Ok
+8/17/2020 2:55:15 AM:LoadScene Menu
+08-17-2020 02:55:15 : response received : Ok
+Scene Loaded
+08-17-2020 02:55:15 : response received : Scene Loaded
+8/17/2020 2:55:15 AM:findObject for: //MenuUI/Panel/Menu;;true;
+08-17-2020 02:55:15 : response received : error:failedToParseMethodArguments
+8/17/2020 2:57:50 AM:Logging is set to True
+08-17-2020 02:57:50 : response received : Ok
+8/17/2020 2:57:50 AM:LoadScene Menu
+08-17-2020 02:57:50 : response received : Ok
+Scene Loaded
+08-17-2020 02:57:50 : response received : Scene Loaded
+8/17/2020 2:57:50 AM:get current scene
+08-17-2020 02:57:50 : response received : {"name":"Menu","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+8/17/2020 2:58:11 AM:Server version is: 1.5.6
+08-17-2020 02:58:11 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 2:58:11 AM:Logging is set to True
+08-17-2020 02:58:11 : response received : Ok
+8/17/2020 2:58:11 AM:LoadScene Menu
+08-17-2020 02:58:11 : response received : Ok
+Scene Loaded
+08-17-2020 02:58:11 : response received : Scene Loaded
+8/17/2020 2:58:11 AM:get current scene
+08-17-2020 02:58:11 : response received : {"name":"Menu","id":0,"x":0,"y":0,"z":0,"mobileY":0,"type":"UnityScene","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":0.0,"idCamera":0,"parentId":0,"transformId":0}
+8/17/2020 3:00:22 AM:Logging is set to True
+08-17-2020 03:00:22 : response received : Ok
+8/17/2020 3:00:22 AM:LoadScene Menu
+08-17-2020 03:00:22 : response received : Ok
+Scene Loaded
+08-17-2020 03:00:22 : response received : Scene Loaded
+8/17/2020 3:00:22 AM:find object by component MenuUI
+08-17-2020 03:00:22 : response received : error:componentNotFound
+8/17/2020 3:02:11 AM:Server version is: 1.5.6
+08-17-2020 03:02:11 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:02:11 AM:Logging is set to True
+08-17-2020 03:02:11 : response received : Ok
+8/17/2020 3:02:12 AM:LoadScene Menu
+08-17-2020 03:02:12 : response received : Ok
+Scene Loaded
+08-17-2020 03:02:12 : response received : Scene Loaded
+8/17/2020 3:02:12 AM:findObjects for: //MenuUI
+08-17-2020 03:02:12 : response received : error:failedToParseMethodArguments
+8/17/2020 3:03:16 AM:Server version is: 1.5.6
+08-17-2020 03:03:16 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:03:16 AM:Logging is set to True
+08-17-2020 03:03:16 : response received : Ok
+8/17/2020 3:03:16 AM:LoadScene Menu
+08-17-2020 03:03:16 : response received : Ok
+Scene Loaded
+08-17-2020 03:03:16 : response received : Scene Loaded
+8/17/2020 3:03:16 AM:findObjects for: MenuUI
+08-17-2020 03:03:16 : response received : error:failedToParseMethodArguments
+8/17/2020 3:03:38 AM:Server version is: 1.5.6
+08-17-2020 03:03:38 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:03:38 AM:Logging is set to True
+08-17-2020 03:03:38 : response received : Ok
+8/17/2020 3:03:38 AM:LoadScene Menu
+08-17-2020 03:03:38 : response received : Ok
+Scene Loaded
+08-17-2020 03:03:38 : response received : Scene Loaded
+8/17/2020 3:03:38 AM:findObjects for: //Menu/MenuUI
+08-17-2020 03:03:38 : response received : error:failedToParseMethodArguments
+8/17/2020 3:04:03 AM:Server version is: 1.5.6
+08-17-2020 03:04:03 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:04:03 AM:Logging is set to True
+08-17-2020 03:04:03 : response received : Ok
+8/17/2020 3:04:03 AM:LoadScene Menu
+08-17-2020 03:04:03 : response received : Ok
+Scene Loaded
+08-17-2020 03:04:03 : response received : Scene Loaded
+8/17/2020 3:04:04 AM:findObjects for: //Menu/MenuUI
+08-17-2020 03:04:04 : response received : error:failedToParseMethodArguments
+8/17/2020 3:04:40 AM:Logging is set to True
+08-17-2020 03:04:40 : response received : Ok
+8/17/2020 3:04:40 AM:LoadScene Menu
+08-17-2020 03:04:40 : response received : Ok
+Scene Loaded
+08-17-2020 03:04:40 : response received : Scene Loaded
+8/17/2020 3:04:40 AM:findObjects for: //Menu/MenuUI
+08-17-2020 03:04:40 : response received : error:failedToParseMethodArguments
+8/17/2020 3:10:04 AM:Server version is: 1.5.6
+08-17-2020 03:10:04 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:10:04 AM:Logging is set to True
+08-17-2020 03:10:04 : response received : Ok
+8/17/2020 3:10:04 AM:LoadScene Menu
+08-17-2020 03:10:04 : response received : Ok
+Scene Loaded
+08-17-2020 03:10:04 : response received : Scene Loaded
+8/17/2020 3:10:04 AM:find object by component MenuUI
+08-17-2020 03:10:04 : response received : error:componentNotFound
+8/17/2020 3:11:23 AM:Server version is: 1.5.6
+08-17-2020 03:11:23 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:11:23 AM:Logging is set to True
+08-17-2020 03:11:23 : response received : Ok
+8/17/2020 3:11:23 AM:LoadScene Menu
+08-17-2020 03:11:23 : response received : Ok
+Scene Loaded
+08-17-2020 03:11:23 : response received : Scene Loaded
+8/17/2020 3:11:23 AM:find object by component MenuUI
+08-17-2020 03:11:23 : response received : error:componentNotFound
+8/17/2020 3:12:39 AM:Logging is set to True
+08-17-2020 03:12:39 : response received : Ok
+8/17/2020 3:12:39 AM:LoadScene Menu
+08-17-2020 03:12:39 : response received : Ok
+Scene Loaded
+08-17-2020 03:12:39 : response received : Scene Loaded
+8/17/2020 3:12:39 AM:find object by component MenuUI
+08-17-2020 03:12:39 : response received : error:componentNotFound
+8/17/2020 3:13:00 AM:Server version is: 1.5.6
+08-17-2020 03:13:00 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:13:00 AM:Logging is set to True
+08-17-2020 03:13:00 : response received : Ok
+8/17/2020 3:13:00 AM:LoadScene Menu
+08-17-2020 03:13:00 : response received : Ok
+Scene Loaded
+08-17-2020 03:13:01 : response received : Scene Loaded
+8/17/2020 3:13:27 AM:Server version is: 1.5.6
+08-17-2020 03:13:27 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:13:27 AM:Logging is set to True
+08-17-2020 03:13:27 : response received : Ok
+8/17/2020 3:13:27 AM:LoadScene Menu
+08-17-2020 03:13:27 : response received : Ok
+Scene Loaded
+08-17-2020 03:13:27 : response received : Scene Loaded
+8/17/2020 3:13:27 AM:findObjects for: //MenuController
+08-17-2020 03:13:27 : response received : error:failedToParseMethodArguments
+8/17/2020 3:15:15 AM:Server version is: 1.5.6
+08-17-2020 03:15:15 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:15:15 AM:Logging is set to True
+08-17-2020 03:15:15 : response received : Ok
+8/17/2020 3:15:15 AM:LoadScene Menu
+08-17-2020 03:15:15 : response received : Ok
+Scene Loaded
+08-17-2020 03:15:15 : response received : Scene Loaded
+8/17/2020 3:15:40 AM:Server version is: 1.5.6
+08-17-2020 03:15:40 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:15:40 AM:Logging is set to True
+08-17-2020 03:15:40 : response received : Ok
+8/17/2020 3:15:40 AM:LoadScene Menu
+08-17-2020 03:15:40 : response received : Ok
+Scene Loaded
+08-17-2020 03:15:40 : response received : Scene Loaded
+8/17/2020 3:16:32 AM:Server version is: 1.5.6
+08-17-2020 03:16:32 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:16:32 AM:Logging is set to True
+08-17-2020 03:16:32 : response received : Ok
+8/17/2020 3:16:32 AM:LoadScene Menu
+08-17-2020 03:16:32 : response received : Ok
+Scene Loaded
+08-17-2020 03:16:32 : response received : Scene Loaded
+8/17/2020 3:19:37 AM:Server version is: 1.5.6
+08-17-2020 03:19:37 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:19:37 AM:Logging is set to True
+08-17-2020 03:19:37 : response received : Ok
+8/17/2020 3:19:37 AM:LoadScene Menu
+08-17-2020 03:19:37 : response received : Ok
+Scene Loaded
+08-17-2020 03:19:37 : response received : Scene Loaded
+8/17/2020 3:19:37 AM:findActiveObjectByName for: MenuUI
+08-17-2020 03:19:37 : response received : error:failedToParseMethodArguments
+8/17/2020 3:21:22 AM:Server version is: 1.5.6
+08-17-2020 03:21:23 : response received : 1.5.6
+Version mismatch. You are using different versions of server and driver. Server version: 1.5.6 and Driver version: 1.5.5
+8/17/2020 3:21:23 AM:Logging is set to True
+08-17-2020 03:21:23 : response received : Ok
+8/17/2020 3:21:23 AM:LoadScene Menu
+08-17-2020 03:21:23 : response received : Ok
+Scene Loaded
+08-17-2020 03:21:23 : response received : Scene Loaded
+8/17/2020 3:21:23 AM:findActiveObjectByName for: MenuUI
+08-17-2020 03:21:23 : response received : error:failedToParseMethodArguments
+8/17/2020 3:21:23 AM:findActiveObjectByName for: MenuUI
+08-17-2020 03:21:23 : response received : error:failedToParseMethodArguments
+8/17/2020 3:21:24 AM:findActiveObjectByName for: MenuUI
+08-17-2020 03:21:24 : response received : error:failedToParseMethodArguments
+8/17/2020 3:21:24 AM:findActiveObjectByName for: MenuUI
+08-17-2020 03:21:24 : response received : error:failedToParseMethodArguments
+8/17/2020 3:25:19 AM:Logging is set to True
+08-17-2020 03:25:19 : response received : Ok
+8/17/2020 3:25:19 AM:LoadScene Menu
+08-17-2020 03:25:19 : response received : Ok
+Scene Loaded
+08-17-2020 03:25:19 : response received : Scene Loaded
+8/17/2020 3:25:19 AM:findObjects for: //*
+08-17-2020 03:25:19 : response received : error:failedToParseMethodArguments
+8/17/2020 3:35:37 AM:Logging is set to True
+08-17-2020 03:35:37 : response received : Ok
+8/17/2020 3:35:37 AM:LoadScene Menu
+08-17-2020 03:35:37 : response received : Ok
+Scene Loaded
+08-17-2020 03:35:37 : response received : Scene Loaded
+8/17/2020 3:35:37 AM:findObjects for: //*
+08-17-2020 03:35:37 : response received : error:failedToParseMethodArguments
+8/17/2020 3:55:06 AM:Logging is set to True
+08-17-2020 03:55:06 : response received : Ok
+8/17/2020 3:55:06 AM:LoadScene Menu
+08-17-2020 03:55:06 : response received : Ok
+Scene Loaded
+08-17-2020 03:55:06 : response received : Scene Loaded
+8/17/2020 3:55:06 AM:findObject for: //*[@component=Music Source];;true;
+08-17-2020 03:55:06 : response received : error:failedToParseMethodArguments
+8/17/2020 3:55:07 AM:findObject for: //*[@component=Music Source];;true;
+08-17-2020 03:55:07 : response received : error:failedToParseMethodArguments
+8/17/2020 3:55:07 AM:findObject for: //*[@component=Music Source];;true;
+08-17-2020 03:55:07 : response received : error:failedToParseMethodArguments
+8/17/2020 3:55:08 AM:findObject for: //*[@component=Music Source];;true;
+08-17-2020 03:55:08 : response received : error:failedToParseMethodArguments

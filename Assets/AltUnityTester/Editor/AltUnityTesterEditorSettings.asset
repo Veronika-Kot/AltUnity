@@ -1854,8 +1854,8 @@ MonoBehaviour:
     _buildIndex: 0
   - _toBeBuilt: 1
     _path: Assets/Scenes/Stage1.unity
-    _buildIndex: 1
-  platform: 1
+    _buildIndex: 0
+  platform: 2
   standaloneTarget: 5
   ranInEditor: 0
   requestSeparator: ;
