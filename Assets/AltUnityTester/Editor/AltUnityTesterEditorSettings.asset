@@ -1,0 +1,1866 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073b5878cbef2364cb928faafba64ca5, type: 3}
+  m_Name: AltUnityTesterEditorSettings
+  m_EditorClassIdentifier: 
+  appendToName: 0
+  OutputPathName: build
+  AdbPath: /usr/local/bin/adb
+  IProxyPath: /usr/local/bin/iproxy
+  XcrunPath: /usr/bin/xcrun
+  AutomaticallySign: 0
+  SigningTeamId: 
+  BuildNumber: 0
+  MyTests:
+  - _selected: 0
+    _testName: /Users/Veronika-Kot/Match3-Unity-master/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    _status: 0
+    _isSuite: 1
+    _parentName: 
+    _testCaseCount: 157
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+  - _selected: 0
+    _testName: TestForScene1TestSample
+    _status: 0
+    _isSuite: 1
+    _parentName: /Users/Veronika-Kot/Match3-Unity-master/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    _testCaseCount: 95
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestAccelerationAndWait
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.2579081
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestButtonClickWithSwipe
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.7273926
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestCallMethodWithAssembly
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2239702
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestCallMethodWithIncorrectNumberOfParameters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1598443
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestCallMethodWithIncorrectTypeOfParameters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1699638
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestCallMethodWithManyParameters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1720547
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestCallMethodWithMultipleDefinitions
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2037425
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestCallMethodWithNoParameters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2084193
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestCallMethodWithParameters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1618953
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestCallStaticMethod
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1600862
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestClickElement
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2091002
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestClickScreen
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2125505
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestCustomTap
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.2382211
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestDeleteKey
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2151702
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestDifferentCamera
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2133792
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestDoubleTap
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.6976846
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindChild
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1383529
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindElement
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1624054
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindElements
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1610251
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindElementsWhereNameContains
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1616801
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindElementWhereNameContains
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1595311
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindingDifferentObjects
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2562811
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindNonExistentObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1370167
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindNonExistentObjectByName
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1749161
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectByComponent
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.0622477
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectByComponent2
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1381799
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectByComponentWithNamespace
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.0541789
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectByLayer
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1293872
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectByTag
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1455693
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectByUnityComponent
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1473618
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectsByComponent
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1280367
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectsByContainName
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1586983
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectsByLayer
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1633739
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectsByTag
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1640896
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectScene1
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1629829
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectScene6
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.3139243
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectsWithCameraId
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2511202
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectsWithObsoleteCameraMethod
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2148352
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectsWithTag
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2151267
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectWhichContains
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1311549
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectWithObsoleteCameraMethod
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.245661
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindObjectWithTag
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2172952
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindParentUsingPath
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1324959
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestFindWithFindObjectWhichContainsNotExistingObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1579435
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestForSetText
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2296
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetAllCameras
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1338417
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetAllComponents
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1960704
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetAllFields
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1918072
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetAllMethods
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1806604
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetAllMethodsFromInherited
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1787588
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetAllScenes
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1296696
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetChineseLetters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1899985
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetComponentProperty
+    _status: 0
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetComponentPropertyArray
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1650811
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetComponentPropertyUnityEngine
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.173585
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetCurrentScene
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1307183
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetNonExistingComponentProperty
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.1104835
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetScreenshot
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2696282
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestGetUIObjectFromScreenshot
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.5388163
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestInactiveObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1298611
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestNonEnglishText
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1887046
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestObjectFromScreenshot
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.4732578
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestPressNextSceneButtton
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2674736
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestSetComponentProperty
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1961983
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestSetKeyFloat
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1846279
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestSetKeyInt
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1821779
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestSetKeyString
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1802154
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestSetNonExistingComponentProperty
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1653837
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestSetTextForElement
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1837592
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestSetTimeScale
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.1523458
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestTapScreenWhereThereIsNoObjects
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1395311
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForCurrentSceneToBe
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1584498
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForCurrrentSceneToBeANonExistingScene
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.156747
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForElementWithText
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2307244
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForElementWithTextWithCameraId
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2492129
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForElementWithTextWithObsoleteCameraMethod
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2301451
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForElementWithTextWithTag
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2308049
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForExistingDisabledElement
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1334874
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForExistingElement
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1624364
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForExistingElementWhereNameContains
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1607613
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForNonExistingElementWhereNameContains
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.1714652
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForNonExistingObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.1351713
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectNotBePresentWithCameraId
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 5.3165949
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectNotBePresentWithObsoleteCameraMethod
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 5.2682463
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectNotBePresentWithTag
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 5.3399552
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectToNotExist
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 5.271365
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectToNotExistFail
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.6861318
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectWhichContains
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1334441
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectWhichContainsWithCameraId
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1966427
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectWhichContainsWithObsoleteCameraMethod
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1330583
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectWhichContainsWithTag
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.164552
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectWithCameraId
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2778656
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectWithObsoleteCameraMethod
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.22338
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectWithTag
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2161648
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1TestSample.TestWaitForObjectWithTextWrongText
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1TestSample
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.2068185
+    path: Assets/AltUnityTester/Examples/Test/Editor/Testforscene1TestSample.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch
+    _status: 0
+    _isSuite: 1
+    _parentName: /Users/Veronika-Kot/Match3-Unity-master/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    _testCaseCount: 39
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestButtonClickWithSwipe
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.670606
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestCallMethodWithIncorrectNumberOfParameters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1717464
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestCallMethodWithIncorrectTypeOfParameters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1688761
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestCallMethodWithManyParameters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1807632
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestCallMethodWithMultipleDefinitions
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.202726
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestCallMethodWithNoParameters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1634292
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestCallMethodWithParameters
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1665685
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestClickElement
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2158433
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestClickScreen
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2150576
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestDifferentCamera
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2436308
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestFindElement
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1369875
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestFindElementByComponent
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.1050032
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestFindElementByComponent2
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1342154
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestFindElements
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1440192
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestFindElementsByComponent
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1559811
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestFindElementsWhereNameContains
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1458316
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestFindElementWhereNameContains
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1566386
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestFindNonExistentObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1527243
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestFindNonExistentObjectByName
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1509747
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestGetAllComponents
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1851903
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestGetAllFields
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1869881
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestGetAllMethods
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2019611
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestGetComponentProperty
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.074618
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestGetComponentPropertyArray
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1649114
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestGetComponentPropertyUnityEngine
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1660096
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestGetNonExistingComponentProperty
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.0784535
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestInactiveObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1383355
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestSetComponentProperty
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1956759
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestSetNonExistingComponentProperty
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1834836
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestWaitForCurrentSceneToBe
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1444726
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestWaitForCurrrentSceneToBeANonExistingScene
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.1604963
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestWaitForElementWithText
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.229573
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestWaitForExistingDisabledElement
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.0327749
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestWaitForExistingElement
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.0286963
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestWaitForExistingElementWhereNameContains
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.0260221
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestWaitForNonExistingElementWhereNameContains
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.0328161
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestWaitForNonExistingObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.1348503
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestWaitForObjectToNotExistFail
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.653338
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene1WithOldSearch.TestWaitForObjectWithTextWrongText
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene1WithOldSearch
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.1650649
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene1WithOldSearch.cs
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel
+    _status: 0
+    _isSuite: 1
+    _parentName: /Users/Veronika-Kot/Match3-Unity-master/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    _testCaseCount: 10
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel.TestClosePanel
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene2DraggablePanel
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2777241
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForscene2DraggablePanel.cs
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel.TestDragObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene2DraggablePanel
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.1755426
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForscene2DraggablePanel.cs
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel.TestDropObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene2DraggablePanel
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.1904146
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForscene2DraggablePanel.cs
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel.TestGetAllElements
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene2DraggablePanel
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.0824794
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForscene2DraggablePanel.cs
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel.TestGetAllEnabledElements
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene2DraggablePanel
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.0705767
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForscene2DraggablePanel.cs
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel.TestMovePanel
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene2DraggablePanel
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.1738756
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForscene2DraggablePanel.cs
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel.TestPointerDownFromObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene2DraggablePanel
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.2030695
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForscene2DraggablePanel.cs
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel.TestPointerUpFromObject
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene2DraggablePanel
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 1.200292
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForscene2DraggablePanel.cs
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel.TestResizePanel
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene2DraggablePanel
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 4.2588882
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForscene2DraggablePanel.cs
+  - _selected: 0
+    _testName: TestForScene2DraggablePanel.TestResizePanelWithMultipointSwipe
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene2DraggablePanel
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 8.2802219
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForscene2DraggablePanel.cs
+  - _selected: 0
+    _testName: TestForScene3DragAndDrop
+    _status: 0
+    _isSuite: 1
+    _parentName: /Users/Veronika-Kot/Match3-Unity-master/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    _testCaseCount: 4
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+  - _selected: 0
+    _testName: TestForScene3DragAndDrop.MultipleDragAndDrop
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene3DragAndDrop
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 4.521237
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene3DragAndDrop.cs
+  - _selected: 0
+    _testName: TestForScene3DragAndDrop.MultipleDragAndDropWait
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene3DragAndDrop
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 4.7867804
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene3DragAndDrop.cs
+  - _selected: 0
+    _testName: TestForScene3DragAndDrop.MultipleDragAndDropWaitWithMultipointSwipe
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene3DragAndDrop
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 5.3854721
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene3DragAndDrop.cs
+  - _selected: 0
+    _testName: TestForScene3DragAndDrop.TestPointerEnterAndExit
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene3DragAndDrop
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.2815094
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene3DragAndDrop.cs
+  - _selected: 0
+    _testName: TestForScene4NoCameras
+    _status: 0
+    _isSuite: 1
+    _parentName: /Users/Veronika-Kot/Match3-Unity-master/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+  - _selected: 0
+    _testName: TestForScene4NoCameras.TestFindElementInASceneWithNoCameras
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene4NoCameras
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.1060124
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene4NoCameras.cs
+  - _selected: 0
+    _testName: TestForScene5KeyboardAndMouseInput
+    _status: 0
+    _isSuite: 1
+    _parentName: /Users/Veronika-Kot/Match3-Unity-master/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    _testCaseCount: 8
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+  - _selected: 0
+    _testName: TestForScene5KeyboardAndMouseInput.TestButton
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene5KeyboardAndMouseInput
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.4623847
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene5KeyboardAndMouseInput.cs
+  - _selected: 0
+    _testName: TestForScene5KeyboardAndMouseInput.TestCameraMovement
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene5KeyboardAndMouseInput
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.1635632
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene5KeyboardAndMouseInput.cs
+  - _selected: 0
+    _testName: TestForScene5KeyboardAndMouseInput.TestCreatingStars
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene5KeyboardAndMouseInput
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 3.871918
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene5KeyboardAndMouseInput.cs
+  - _selected: 0
+    _testName: TestForScene5KeyboardAndMouseInput.TestKeyboardPress
+    _status: -1
+    _isSuite: 0
+    _parentName: TestForScene5KeyboardAndMouseInput
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 'System.ArgumentException : Must specify valid information
+      for parsing in the string.'
+    _testStackTrace: "  at System.Enum+EnumResult.SetFailure (System.Enum+ParseFailureKind
+      failure, System.String failureMessageID, System.Object failureMessageFormatArgument)
+      [0x00023] in <567df3e0919241ba98db88bec4c6696f>:0 \r\n  at System.Enum.TryParseEnum
+      (System.Type enumType, System.String value, System.Boolean ignoreCase, System.Enum+EnumResult&
+      parseResult) [0x00077] in <567df3e0919241ba98db88bec4c6696f>:0 \r\n  at System.Enum.Parse
+      (System.Type enumType, System.String value, System.Boolean ignoreCase) [0x00010]
+      in <567df3e0919241ba98db88bec4c6696f>:0 \r\n  at TestForScene5KeyboardAndMouseInput.TestKeyboardPress
+      () [0x0009d] in D:\\Altom\\altunitytester\\Assets\\AltUnityTester\\Examples\\Test\\Editor\\TestForScene5KeyboardAndMouseInput.cs:101
+      \r\n  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)\r\nat
+      System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags
+      invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo
+      culture) [0x00032] in <567df3e0919241ba98db88bec4c6696f>:0 "
+    _testDuration: 0.5700384
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene5KeyboardAndMouseInput.cs
+  - _selected: 0
+    _testName: TestForScene5KeyboardAndMouseInput.TestMovementCube
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene5KeyboardAndMouseInput
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 3.2089908
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene5KeyboardAndMouseInput.cs
+  - _selected: 0
+    _testName: TestForScene5KeyboardAndMouseInput.TestPowerJoystick
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene5KeyboardAndMouseInput
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0.5844261
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene5KeyboardAndMouseInput.cs
+  - _selected: 0
+    _testName: TestForScene5KeyboardAndMouseInput.TestScroll
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene5KeyboardAndMouseInput
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.1646064
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene5KeyboardAndMouseInput.cs
+  - _selected: 0
+    _testName: TestForScene5KeyboardAndMouseInput.TestScrollAndWait
+    _status: 1
+    _isSuite: 0
+    _parentName: TestForScene5KeyboardAndMouseInput
+    _testCaseCount: 1
+    _foldOut: 1
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 2.2151315
+    path: Assets/AltUnityTester/Examples/Test/Editor/TestForScene5KeyboardAndMouseInput.cs
+  - _selected: 1
+    _testName: /Users/Veronika-Kot/Match3-Unity-master/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    _status: 0
+    _isSuite: 1
+    _parentName: 
+    _testCaseCount: 0
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+  Scenes:
+  - _toBeBuilt: 1
+    _path: Assets/Scenes/Menu.unity
+    _buildIndex: 0
+  - _toBeBuilt: 1
+    _path: Assets/Scenes/Stage1.unity
+    _buildIndex: 1
+  platform: 1
+  standaloneTarget: 5
+  ranInEditor: 0
+  requestSeparator: ;
+  requestEnding: '&'
+  serverPort: 13000
+  scenePathDisplayed: 0
+  inputVisualizer: 1
+  showPopUp: 1
